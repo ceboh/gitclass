@@ -1,2 +1,0 @@
-# gitclass
-Edureka class
